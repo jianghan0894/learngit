@@ -1,2 +1,2 @@
 Git is a version 胡宏周 free niupi 蒋涵。
-Git a free system.
+Git a free system under GPL.
