@@ -1,5 +1,5 @@
 Git is a version free niupi 。
-Git a free system under GPL.
+Git a free 免费的 system under GPL.
 这里不能出现名字呀
 万一被别人看见了怎么办
 这一行在dev分支上加的
